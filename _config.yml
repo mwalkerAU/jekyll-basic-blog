@@ -1,7 +1,7 @@
 # Site settings
-title: Jekyll Basic Blog
+title: Mats Useless Jekyll Basic Blog
 description: > 
-  A very simple Jekyll site for learning how Jekyll sites work.
+  A very simple Jekyll site for learning how Jekyll sites work built in 5 minutes, yay Git.
 
 # Build settings
 markdown: kramdown
